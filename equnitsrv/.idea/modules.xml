@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/equnitsrv.iml" filepath="$PROJECT_DIR$/equnitsrv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/equnitsrv_main.iml" filepath="$PROJECT_DIR$/.idea/modules/equnitsrv_main.iml" group="equnitsrv" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/equnitsrv_test.iml" filepath="$PROJECT_DIR$/.idea/modules/equnitsrv_test.iml" group="equnitsrv" />
+    </modules>
+  </component>
+</project>
